@@ -1,0 +1,3 @@
+Ten:e	Gia tien:12	So trang:2
+Ten:c	Gia tien:12	So trang:3
+Ten:a	Gia tien:12	So trang:6
